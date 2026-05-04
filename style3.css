@@ -1,0 +1,28 @@
+.text2{
+    color: rgb(72, 55, 55);
+    background-color: black;
+    font-size: 50px;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 100px;
+    padding: 20px 200px;
+    border: 10px;
+}
+
+
+.p1{
+    font-size: 22.5px;
+    position: absolute;
+    top: 110px;
+    left: 25%;
+    transform: translateX(-50%);
+}
+
+
+body {
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
